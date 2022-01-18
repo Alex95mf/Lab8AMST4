@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135629170702",
+    "project_id": "lab08-amst",
+    "storage_bucket": "lab08-amst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135629170702:android:3277e1af9c5b59d484f45f",
+        "android_client_info": {
+          "package_name": "com.amst.grupo4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135629170702-2co7b8q3idfpnh9iheh7bkbudlojju0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_F_XpDBYLPVLGF8oui7lIbslLxgYIZqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135629170702-2co7b8q3idfpnh9iheh7bkbudlojju0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
